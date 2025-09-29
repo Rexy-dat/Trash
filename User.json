@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "owner",
+    "username": "trash",
+    "password": "trash5",
+    "expired": 30000
+  }
+]
+
